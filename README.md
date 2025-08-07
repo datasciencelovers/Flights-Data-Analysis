@@ -1,7 +1,13 @@
-# Flights-Data-Analysis
+# Airlines' Flights Data Analysis
+
 Big Data Analysis with Python
 
-_**Project Video available on YouTube - https://youtu.be/gu3Ot78j_Gc**_
+------------------------------
+### 📹 Project Video available on YouTube - https://youtu.be/gu3Ot78j_Gc
+
+### 📖 Get Python Data Analysis Self Study Notes - https://rzp.io/l/dslnotes239
+-----------------------
+
 
 ### Airlines Flights Dataset for Different Cities
 
@@ -11,7 +17,7 @@ This data is available as a CSV file. We are going to analyze this data set usin
 
 This analyse will be helpful for those working in Airlines, Travel domain.
 
-## Using this dataset, we answered multiple questions with Python in our [Project]([url](https://youtu.be/gu3Ot78j_Gc)).
+### Using this dataset, we answered multiple questions with Python in our [Project]([url](https://youtu.be/gu3Ot78j_Gc)).
 
 Q.1. What are the airlines in the dataset, accompanied by their frequencies?
 
@@ -31,7 +37,7 @@ Q.8. How does the ticket price vary between Economy and Business class?
 
 Q.9. What will be the Average Price of Vistara airline for a flight from Delhi to Hyderabad in Business Class ?
 
-## These are the main Features/Columns available in the dataset :
+### These are the main Features/Columns available in the dataset :
 
 1) Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.
 
